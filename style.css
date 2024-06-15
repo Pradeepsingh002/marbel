@@ -1047,8 +1047,8 @@
     flex-direction: column;
   }
   .container-9 .one-ul ul {
-    width: 40%;
-    padding: 0;
+    width: 80%;
+    padding-left: 25%;
   }
   .container-9 .one-ul ul li {
     text-align: start;
@@ -1064,13 +1064,12 @@
   }
   .container-9 .last-ul ul {
     width: 100%;
-    padding-block: 5%;
+    padding-block: 2%;
   }
   .footer {
     width: 100%;
-    padding-inline: 2%;
+    padding-inline: 5%;
     padding-block: 2%;
-
   }
   .footer ul {
     align-items: start;
